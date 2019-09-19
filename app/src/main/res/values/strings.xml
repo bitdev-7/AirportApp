@@ -1,0 +1,17 @@
+<resources>
+    <string name="flights">Flights</string>
+    <string name="tickets">Tickets</string>
+    <string name="about">About...</string>
+    <string name="simulator">Simulator</string>
+    <string name="app_name">AirportApp</string>
+    <string name="nav_header">Airport App v.1.0</string>
+    <string name="airport_app_author">Arthur V. Ratz @ CodeProject.Com </string>
+    <string name="arrivals_tab">Arrivals</string>
+    <string name="departures_tab">Departures</string>
+    <string name="flights_prev">YESTERDAY</string>
+    <string name="flights_now">TODAY</string>
+    <string name="flights_next">TOMORROW</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
