@@ -26,7 +26,6 @@ public class AirportActivity extends AppCompatActivity {
 
     FlightsFragment flightsFragment;
 
-   // private SearchView searchView;
     private SearchableWithButtonView m_SearchableWithButtonView;
     private FragmentManager m_FragmentMgr;
     private FragmentTransaction m_FragmentTran;
