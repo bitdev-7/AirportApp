@@ -21,6 +21,7 @@ import org.w3c.dom.Text;
 
 import epsilon.com.R;
 
+
 public class SearchableWithButtonView extends View {
 
     private boolean isDefaultIcon;
